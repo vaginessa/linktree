@@ -68,3 +68,11 @@
     text-decoration: underline;
     transition: 0.2s;
   }
+
+  h2, p, code {
+    color: white;
+  }
+
+  code {
+    font-family: monospace;
+  }
